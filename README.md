@@ -1,3 +1,6 @@
+# Hello!
+I'm a game developer with 10+ years of Unity experience. I enjoy making scalable and reusable code.
+
 # Tekly
 Tools for creating games in Unity
 
@@ -11,7 +14,5 @@ The packages include
 - DataModel: A data binding system for UI. 
 - Common: Provides common utilities for use in Unity and in the Tekly Packages
 - Injectors: Very simple dependency injection that integrates with TreeStates
+- Favorites: A simple window to quickly access assets and scenes you frequently use.
 
-## Hasty
-
-A favorites system. Check it out on the [Asset Store](https://u3d.as/2XwK)
