@@ -10,6 +10,7 @@ Several [open source packages](https://github.com/matt-tekly/tekly-packages) tha
 The packages include
 
 - Tekly Basic Builder: A simple configurable window for making Player Builds
+- Tekly Common: Provides common utilities for use in Unity and in the Tekly Packages
 - Tekly Content: A basic wrapper around Addressables that makes the API slightly nicer
 - Tekly DataModel: A data binder system for making UI. Create data models that can be reactively bound to UI components
   - Create data model classes that have named properties and binders can bind to the properties based on string paths to those properties
